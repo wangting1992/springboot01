@@ -1,0 +1,27 @@
+server:
+  port: 8081
+name: wangting
+name1: "wangting /n aaa"
+name2: 'wangting /n aaa'
+age: 18
+friends:
+  name: wangting
+  age: 19
+friends01: {name: wangting01,age: 19}
+pets:
+  - cat
+  - dog
+  - pig
+pets01: [cat,dog,pig]
+#person:
+#  lastname: wangting
+#  age: 18
+#  boss: false
+#  birthday: 2017/12/12
+#  maps: {k1: value1,k2: value2}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小狗
+#    age: 12
