@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62bccb3a-b402-4592-8170-4e613f190dd7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zyzx/springboot/SpringbootApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zyzx/springboot/controller/HelloContrloller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zyzx/springboot/demo/Demo012.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zyzx/springboot/demo/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zyzx/springboot/demo/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/zyzx/springboot/SpringbootApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -118,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="311">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -391,8 +381,16 @@
       <workItem from="1569232825257" duration="1133000" />
       <workItem from="1569318539183" duration="543000" />
       <workItem from="1569319121167" duration="15000" />
-      <workItem from="1569486018080" duration="919000" />
+      <workItem from="1569486018080" duration="1296000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了一行输出">
+      <created>1569486993047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569486993047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -428,7 +426,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13833000" />
+    <option name="totallyTimeSpent" value="14210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -449,7 +447,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.099540584" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3506891" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -505,6 +503,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加了一行输出" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了一行输出" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mvnw.cmd" />
@@ -588,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="311">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
