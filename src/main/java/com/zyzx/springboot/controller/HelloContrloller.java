@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloContrloller {
     @RequestMapping("/hello")
     public String hello(){
+        System.out.println("测试git不同文件的提交");
 
         return "hello man";
     }

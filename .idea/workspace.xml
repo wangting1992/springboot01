@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62bccb3a-b402-4592-8170-4e613f190dd7" name="Default Changelist" comment="">
+    <list default="true" id="62bccb3a-b402-4592-8170-4e613f190dd7" name="Default Changelist" comment="测试git不同文件的提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="112">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="475">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -158,7 +158,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/SpringbootApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/demo/Demo012.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/demo/Dog.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -166,6 +165,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/demo/Person.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java" />
       </list>
     </option>
   </component>
@@ -207,8 +207,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="105" />
-    <option name="y" value="41" />
+    <option name="x" value="623" />
+    <option name="y" value="137" />
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
@@ -381,7 +381,7 @@
       <workItem from="1569232825257" duration="1133000" />
       <workItem from="1569318539183" duration="543000" />
       <workItem from="1569319121167" duration="15000" />
-      <workItem from="1569486018080" duration="3723000" />
+      <workItem from="1569486018080" duration="4242000" />
     </task>
     <task id="LOCAL-00001" summary="添加了一行输出">
       <created>1569486993047</created>
@@ -418,7 +418,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569489998617</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="idea在在添加一条输出5">
+      <created>1569490196385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490196385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="调整输出语句的位置">
+      <created>1569490470897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490470897</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -454,12 +468,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16637000" />
+    <option name="totallyTimeSpent" value="17156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1997319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -475,13 +489,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" visible="true" weight="0.34762633" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.34762633" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.34762633" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.3283582" />
+      <window_info active="true" anchor="bottom" id="Messages" order="14" visible="true" weight="0.32771823" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -503,20 +517,13 @@
     <MESSAGE value="idea在在添加一条输出2" />
     <MESSAGE value="idea在在添加一条输出3" />
     <MESSAGE value="idea在在添加一条输出4" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea在在添加一条输出4" />
+    <MESSAGE value="idea在在添加一条输出5" />
+    <MESSAGE value="调整输出语句的位置" />
+    <MESSAGE value="测试git不同文件的提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试git不同文件的提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mvnw.cmd" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -587,8 +594,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/zyzx/springboot/SpringbootApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="475">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zyzx/springboot/controller/HelloContrloller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
