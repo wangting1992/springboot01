@@ -17,6 +17,9 @@ public class SpringbootApplicationTests {
     public void contextLoads() {
         System.out.println(person);
         System.out.println("wangting");
+        System.out.println("idea再次天剑输出2");
+        System.out.println("idea再次天剑输出3");
+        System.out.println("idea再次天剑输出4");
         System.out.println("github再次天剑输出2");
         System.out.println("github再次天剑输出3");
             
