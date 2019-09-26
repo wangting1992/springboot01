@@ -1,0 +1,48 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.zyzx.springboot.demo.Person",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.zyzx.springboot.demo.Dog",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.lastname",
+      "type": "java.lang.String",
+      "description": "name,${}从环境变量中获取值 *#{}spel表达式",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.zyzx.springboot.demo.Person"
+    }
+  ],
+  "hints": []
+}

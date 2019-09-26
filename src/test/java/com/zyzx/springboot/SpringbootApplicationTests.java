@@ -16,6 +16,7 @@ public class SpringbootApplicationTests {
     @Test
     public void contextLoads() {
         System.out.println(person);
+        System.out.println("wangting");
     }
 
 }
