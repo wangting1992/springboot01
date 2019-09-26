@@ -19,6 +19,7 @@ public class SpringbootApplicationTests {
         System.out.println("wangting");
         System.out.println("github再次天剑输出2");
         System.out.println("github再次天剑输出3");
+        System.out.println("github再次天剑输出4");
             
     }
 
