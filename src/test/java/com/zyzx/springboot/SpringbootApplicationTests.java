@@ -17,6 +17,7 @@ public class SpringbootApplicationTests {
     public void contextLoads() {
         System.out.println(person);
         System.out.println("wangting");
+        System.out.println("ieda再次添加了一行输出2");
     }
 
 }
